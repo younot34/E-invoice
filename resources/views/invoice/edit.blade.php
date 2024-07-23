@@ -52,12 +52,12 @@
                                     <tr>
                                         <td>Alamat</td>
                                         <td>:</td>
-                                        <td>Jl Cokroaminoto Muara Badak</td>
+                                        <td>Jl. Mayjen Sutoyo No.113, Rw. VI, Sindurjan, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah</td>
                                     </tr>
                                     <tr>
                                         <td>No Telp</td>
                                         <td>:</td>
-                                        <td>085250708309</td>
+                                        <td>081333334192</td>
                                     </tr>
                                     <tr>
                                         <td>Email</td>

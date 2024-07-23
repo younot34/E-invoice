@@ -60,8 +60,8 @@
                     <td colspan="2">
                         <h4>Perusahaan: </h4>
                         <p>RSU Aisyiyah Purworejo<br>
-                            Jl Cokroaminoto Muara Badak<br>
-                            085250708309<br>
+                            Jl. Mayjen Sutoyo No.113, Rw. VI, Sindurjan, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah<br>
+                            081333334192<br>
                             RSU Aisyiyah Purworejo.com
                         </p>
                     </td>
