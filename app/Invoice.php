@@ -10,12 +10,12 @@ class Invoice extends Model
 
     public function getTaxAttribute()
     {
-        return ($this->total * 2) / 100;
+        return ($this->total * 0) / 100;
     }
 
     public function getTotalPriceAttribute()
     {
-        return ($this->total + (($this->total * 2) / 100));
+        return ($this->total + (($this->total * 0) / 100));
     }
 
     public function customer()

@@ -94,12 +94,12 @@
                     <th colspan="3">Subtotal</th>
                     <td>Rp {{ number_format($invoice->total) }}</td>
                 </tr>
-                <tr>
+                {{-- <tr>
                     <th>Pajak</th>
                     <td></td>
                     <td>2%</td>
                     <td>Rp {{ number_format($invoice->tax) }}</td>
-                </tr>
+                </tr> --}}
             </tbody>
             <tfoot>
                 <tr>

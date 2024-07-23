@@ -26,7 +26,7 @@
                                     <th>No Telp</th>
                                     <th>Total Item</th>
                                     <th>Subtotal</th>
-                                    <th>Pajak</th>
+                                    {{-- <th>Pajak</th> --}}
                                     <th>Total</th>
                                     <th>Aksi</th>
                                 </tr>
@@ -39,7 +39,7 @@
                                         <td>{{ $row->customer->phone }}</td>
                                         <td><span class="badge badge-success">{{ $row->detail->count() }} Item</span></td>
                                         <td>Rp {{ number_format($row->total) }}</td>
-                                        <td>Rp {{ number_format($row->tax) }}</td>
+                                        {{-- <td>Rp {{ number_format($row->tax) }}</td> --}}
                                         <td>Rp {{ number_format($row->total_price) }}</td>
                                         <td>
                                             <form action="{{ route('invoice.destroy', $row->id) }}" method="POST">

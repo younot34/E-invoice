@@ -129,11 +129,11 @@
                                         <td>:</td>
                                         <td>Rp {{ number_format($invoice->total) }}</td>
                                     </tr>
-                                    <tr>
+                                    {{-- <tr>
                                         <td>Pajak</td>
                                         <td>:</td>
                                         <td>2% (Rp {{ number_format($invoice->tax) }})</td>
-                                    </tr>
+                                    </tr> --}}
                                     <tr>
                                         <td>Total</td>
                                         <td>:</td>
